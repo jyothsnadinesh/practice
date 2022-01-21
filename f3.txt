@@ -1,0 +1,4 @@
+welcome to Devops
+hai
+Hello
+bye
